@@ -5,11 +5,11 @@ The Comprehensive Bank Loan Dashboard project leverages Power BI to analyze and 
 Features include risk assessment with KPIs for loan quality, advanced visualizations (line charts, bar charts, etc.), and analysis of employment length on 10,000+ applications. Utilizing over 15 DAX calculations and 10 date functions, the dashboard supports dynamic, interactive exploration to aid decision-making and operational efficiency.
 
 ## First Dashboard
-![](/Dashboard/img/dashboard_1.png)
+![](/Dashboard/dashboard.png/dashboard_1.png)
 ## Second Dashboard
-![](/Dashboard/img/dashboard_2.png)
+![](/Dashboard/dashboard.png/dashboard_2.png)
 ## Third Dashboard
-![](/Dashboard/img/dashboard_3.png)
+![](/Dashboard/dashboard.png/dashboard_3.png)
 
 
 ## Project Scope
